@@ -24,6 +24,6 @@ Employ input statements to retrieve customer weather preferences. Next, use thos
 
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, creating a marker layer map with a pop-up marker for each city on the itinerary.
 
-![image](https://user-images.githubusercontent.com/105184244/205026714-0bb22da1-342d-4a25-9623-1cedcb66147d.png)
+![image](https://user-images.githubusercontent.com/105184244/205028321-87f7f30e-7e54-4abc-a00d-9da5c296ffcd.png)
 
-![image](https://user-images.githubusercontent.com/105184244/205026730-f25eb054-6c6e-4784-a5b1-46f1c4fbe401.png)
+![image](https://user-images.githubusercontent.com/105184244/205028354-fbf07022-3f5a-46fd-ba90-0d0dbbc9d605.png)
