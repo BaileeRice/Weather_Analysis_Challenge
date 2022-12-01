@@ -4,7 +4,7 @@
 
 Creating a travel app that does weather analysis of over 600 cities worldwide. Then implementing input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels.
 
-#@ STEPS
+## STEPS
 
 1: Retrieve Weather Data
 
